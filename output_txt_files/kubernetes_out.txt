@@ -1,0 +1,5 @@
+(.devops) C:\Users\rashmik\Documents\udacity\MicroService\DevOps_Microservices\project-ml-microservice-kubernetes>kubectl get pod
+deployment.apps "development" created
+NAME                           READY   STATUS              RESTARTS   AGE
+development-5d87cdc6bd-kcnlw   0/1     ContainerCreating   0          25s
+service "development" exposed
